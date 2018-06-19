@@ -3,4 +3,7 @@ The two moons may be a problem
 there are some changes
 but the mummy ....
 hi, today is june 19th
+< HEAD
 new colaborator added
+This is a line added by my collaborator
+> 15d7daa299e5eb318816dabf40b289b5fbb5b648
